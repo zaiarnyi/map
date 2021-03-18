@@ -1,0 +1,37 @@
+<svg width="13" height="12" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="13" height="12" rx="2" fill="white"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="13" height="12">
+<rect width="13" height="12" rx="2" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 3.2H13V0H0V3.2Z" fill="#262626"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 12H13V8.80002H0V12Z" fill="#018301"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 8.79998H13V3.19998H0V8.79998Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 8H13V4H0V8Z" fill="#DC0808"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.50001 10C7.11906 10 8.04763 8.43005 8.04763 6C8.04763 3.56995 7.11906 2 6.50001 2C5.88096 2 4.95239 3.56995 4.95239 6C4.95239 8.43005 5.88096 10 6.50001 10Z" fill="#BC0000"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="4" y="2" width="5" height="8">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.50001 10C7.11906 10 8.04763 8.43005 8.04763 6C8.04763 3.56995 7.11906 2 6.50001 2C5.88096 2 4.95239 3.56995 4.95239 6C4.95239 8.43005 5.88096 10 6.50001 10Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4.02382 10.4C4.87854 10.4 5.57143 8.43006 5.57143 6.00001C5.57143 3.56995 4.87854 1.60001 4.02382 1.60001C3.16909 1.60001 2.4762 3.56995 2.4762 6.00001C2.4762 8.43006 3.16909 10.4 4.02382 10.4Z" fill="#262626"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.97621 10.4C9.83093 10.4 10.5238 8.43006 10.5238 6.00001C10.5238 3.56995 9.83093 1.60001 8.97621 1.60001C8.12148 1.60001 7.42859 3.56995 7.42859 6.00001C7.42859 8.43006 8.12148 10.4 8.97621 10.4Z" fill="#262626"/>
+<g filter="url(#filter0_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.50008 4.80001L6.50059 4.8C6.6713 4.79856 6.8096 4.08277 6.8096 3.20001C6.8096 2.31635 6.67102 1.60001 6.50008 1.60001C6.32913 1.60001 6.19055 2.31635 6.19055 3.20001C6.19055 4.08366 6.32913 4.80001 6.50008 4.80001ZM6.8096 8.8C6.8096 9.68366 6.67102 10.4 6.50008 10.4C6.32913 10.4 6.19055 9.68366 6.19055 8.8C6.19055 7.91635 6.32913 7.2 6.50008 7.2C6.67102 7.2 6.8096 7.91635 6.8096 8.8Z" fill="url(#paint0_linear)"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="6.19055" y="1.60001" width="0.619047" height="9.8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="6.19055" y1="1.60001" x2="6.19055" y2="10.4" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#F0F0F0"/>
+</linearGradient>
+</defs>
+</svg>

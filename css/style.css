@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.world {
+  font-size: 0;
+}
+
+.world svg {
+  font-size: initial;
+  max-width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 769px) and (min-width: 480px) {
+  body {
+    align-items: start;
+  }
+}
